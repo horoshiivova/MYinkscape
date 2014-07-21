@@ -623,7 +623,7 @@ namespace MYinkscape
 
         private void AboutButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Лабораторну роботу виконував студент 2го курсу, факультету Кібенетики, групи К-26, Врабець Володимир!!!");
+            MessageBox.Show("Pоботу виконував студент 2го курсу, факультету Кібенетики, групи К-26, Врабець Володимир!!!");
         }
 
         private void OpenButton_Click(object sender, EventArgs e)
