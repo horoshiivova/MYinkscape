@@ -1,0 +1,10 @@
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\MYinkscape.csprojResolveAssemblyReference.cache
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\MYinkscape.csproj.GenerateResource.Cache
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\bin\Debug\Laba_5_new.exe
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\bin\Debug\Laba_5_new.pdb
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\Laba_5_new.exe
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\Laba_5_new.pdb
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\MYinkscape.Form1.resources
+C:\Users\Vova\Desktop\Anna-test\MYinkcpase\obj\Debug\MYinkscape.Properties.Resources.resources
+C:\Users\Vova\Source\Repos\MYinkscape2\obj\Debug\Laba_5_new.exe
+C:\Users\Vova\Source\Repos\MYinkscape2\obj\Debug\Laba_5_new.pdb
